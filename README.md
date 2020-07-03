@@ -69,8 +69,8 @@ Linear Digressions
 R-Podcast
 Not so standard deviations
 Dataframed
-Libraries:
 
+Libraries:
 Apache Singa
 Amazon Machine Learning
 TensorFlow
