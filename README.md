@@ -121,3 +121,9 @@ As a beginner, Kick Start
 * [How to flaunt your Passion for analytics in Data science job interviews?](https://towardsdatascience.com/how-to-flaunt-your-passion-for-analytics-in-data-science-job-interviews-2cb432cc3d3d)
 * [The cold start problem: how to build your machine learning portfolio](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9)
 * [Show off your Data Science skills with Kaggle Kernels](https://towardsdatascience.com/show-off-your-data-science-skills-with-kaggle-kernels-762403618c5)
+
+
+
+
+
+**I don't own Copyright to this.
