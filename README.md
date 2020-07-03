@@ -1,7 +1,9 @@
 Data Science Beginners
+
 Set of Notes with links to help those who are Data Science Beginners.
 
 Blogs to Follow:
+
 Data Science Central
 KDNuggets
 Analytics Vidhya
