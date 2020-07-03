@@ -2,7 +2,6 @@ Data Science Beginners
 Set of Notes with links to help those who are Data Science Beginners.
 
 Blogs to Follow:
-
 Data Science Central
 KDNuggets
 Analytics Vidhya
@@ -17,8 +16,8 @@ Dataversity Blog
 Yhat Blog
 Visualization with R
 DataSchool
-To Learn:
 
+To Learn:
 ADVICE FOR ASPIRING DATA SCIENTISTS AND OTHER FAQS
 How to get your first job in Data Science? Tomi Mester Medium
 The most comprehensive Data Science learning plan for 2017
@@ -29,8 +28,8 @@ Minimalistic Learning Path to Become a Data Scientist
 SQL for Data Analysis (Udacity)
 Recommended Python learning resources - fast.ai
 Here are 450 Ivy League courses you can take online right now for free
-Videos:
 
+Videos:
 Practical Deep Learning Course for Coders
 Introduction to R for Data Science | edX
 Data Science | Coursera
