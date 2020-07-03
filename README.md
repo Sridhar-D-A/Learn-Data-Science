@@ -1,6 +1,6 @@
 Data Science Beginners
 
-As a beginner, Kick Start 
+If you're Beginner , it'll be so helpful
 
 **Blogs to Follow:**
 * [Data Science Central](http://www.datasciencecentral.com/)
